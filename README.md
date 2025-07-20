@@ -25,3 +25,4 @@
 
 🛡️ ## Files
 - [Screenshot] phishing-fake.png
+- [Screenshot] virustotal_report.png
