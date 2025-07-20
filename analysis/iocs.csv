@@ -1,0 +1,5 @@
+type,value,source,first_seen,last_seen,notes  
+url, coinbase-dashboard-login.typedream.app,VirusTotal,2024-07-20,2026-06-26,"Phishing page mimicking Coinbase"  
+ip,188.114.96.3,AbuseIPDB,2023-05-10,2023-05-15,"Bulletproof hosting, abuse score: 19/97"  
+domain,paypal-secure[.]com,WHOIS,2023-05-10,2023-05-15,"Registered via Cloudflare"  
+sha256,abcd1234...,VirusTotal,2021-01-22,N/A,"Malicious JS payload"  
